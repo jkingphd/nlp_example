@@ -1,4 +1,4 @@
-name: nlp
+name: nlp_intro
 channels:
  - default
 dependencies:
